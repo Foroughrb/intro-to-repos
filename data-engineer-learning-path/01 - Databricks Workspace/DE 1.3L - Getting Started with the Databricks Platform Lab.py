@@ -136,6 +136,19 @@ display(example_df)
 
 # MAGIC %md
 # MAGIC
+# MAGIC # My Comment
+# MAGIC
+# MAGIC * item 1
+# MAGIC * item 2
+# MAGIC
+# MAGIC 1. num1
+# MAGIC 1. num2
+# MAGIC
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC
 # MAGIC ## Run a SQL cell
 # MAGIC
 # MAGIC Run the following cell to query a Delta table using SQL. This executes a simple query against a table is backed by a Databricks-provided example dataset included in all DBFS installations.
